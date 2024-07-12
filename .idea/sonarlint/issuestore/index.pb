@@ -337,3 +337,6 @@ L
 users/management/__init__.py,b\8\b89b07037f6d3cc185058197aa922a3f0db7ddb3
 U
 %users/management/commands/__init__.py,0\c\0c6aae16120ff4fc4609948a63f7649b97e34835
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
